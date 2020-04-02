@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">MySpectrum</string>
+  <string name="action_settings">Settings</string>
+  <string name="sample_text"></string>
+  <string name="activity_title">Spectrum Users</string>
+  <string name="et_userName">User Name</string>
+  <string name="et_password">Password</string>
+  <string name="et_fullName">Full Name</string>
+  <string name="btn_saveUser">Add</string>
+  <string name="imv_user_template_description">User Image</string>
+  <string name="imv_intro_logo_description">Welcome to MySpectrum App</string>
+  <string name="tv_password_requirement"></string>
+</resources>
